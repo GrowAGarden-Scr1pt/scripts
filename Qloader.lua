@@ -1,6 +1,6 @@
 -- Q-THEMED AESTHETIC LOADER + HUB LOADER
 if queueonteleport then
-    queueonteleport(game:HttpGet("https://cdn.sourceb.in/bins/kOcmmcy45C/0", true))
+    queueonteleport(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/ZusumeHub/refs/heads/main/UpdateZysumeHub", true))
 end
 
 local function showQBreachingCover()
