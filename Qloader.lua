@@ -176,5 +176,5 @@ showQBreachingCover()
 
 -- Load Hub
 pcall(function()
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/kOcmmcy45C/0", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/ZusumeHub/refs/heads/main/UpdateZysumeHub"))()
 end)
